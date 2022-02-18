@@ -2,15 +2,15 @@ Al vele jaren gaat Klaas naar de supermarkt bij hem om de hoek. Hij doet er niet
 
 Klaas heeft echter recent een extra baan gekregen en wil dit proces optimaliseren om zo meer tijd te besparen. Aan de hand van de volgende opdrachten ga jij hem helpen zo efficient mogelijk de boodschappen te doen.
 
-*
+1
 
 Adrie heeft het boodschappenlijstje voor hem klaargelegd. Zijn alle producten op het lijstje ook te vinden in de supermarkt? Het assortiment is hier te vinden.
 
-* *
+2
 
 Klaas krijgt altijd 15 euro mee om de boodschappen mee te doen. Heeft Klaas heir genoeg aan? De prijzen zijn weer te vinden in het assortiment.
 
-* * *
+3
 
 De buurvrouw is jarig en wilt graag een taart bakken. Aangezien ze niet zo van het weggooien is wilt ze altijd goed kijken naar de hoeveelheid ingredienten en niet teveel kopen. Hoeveel blijft er over van de ingredienten voor het taartrecept, als de boodschappen zo gedaan worden met de minste verspilling?
 
