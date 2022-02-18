@@ -6,15 +6,17 @@ Klaas heeft echter recent een extra baan gekregen en wil dit proces optimalisere
 
 Adrie heeft het boodschappenlijstje voor hem klaargelegd. Zijn alle producten op het lijstje ook te vinden in de supermarkt? Het assortiment is hier te vinden.
 
-**
+* *
 
 Klaas krijgt altijd 15 euro mee om de boodschappen mee te doen. Heeft Klaas heir genoeg aan? De prijzen zijn weer te vinden in het assortiment.
 
-***
+* * *
 
 De buurvrouw is jarig en wilt graag een taart bakken. Aangezien ze niet zo van het weggooien is wilt ze altijd goed kijken naar de hoeveelheid ingredienten en niet teveel kopen. Hoeveel blijft er over van de ingredienten voor het taartrecept, als de boodschappen zo gedaan worden met de minste verspilling?
 
+***
 BONUS
+***
 
 Binnenin de supermarkt is de plek van de producten bekend. Met behulp van Dijkstra's algoritme kan je kijken wat de kortste route in de supermarkt is. Zo kan je de looproute optimaliseren en dus weer sneller thuis zijn.
 
